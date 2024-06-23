@@ -1,0 +1,49 @@
+{
+  "id": "compendium-tdh",
+  "title": "Compendium-TDH",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "packs": [
+    {
+      "name": "character-features",
+      "label": "Character Features",
+      "path": "packs/character-features",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    },
+    {
+      "name": "spells",
+      "label": "Spells",
+      "path": "packs/spells",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    },
+    {
+      "name": "monsters-and-creatures",
+      "label": "Monsters and creatures",
+      "path": "packs/monsters-and-creatures",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    }
+  ],
+  "authors": [
+    {
+      "name": "Laurent"
+    }
+  ]
+}
