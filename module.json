@@ -1,7 +1,7 @@
 {
   "id": "compendium-tdh",
   "title": "Compendium-TDH",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
@@ -46,7 +46,6 @@
       "name": "Laurent"
     }
   ],
-
   "url": "https://github.com/GregreHit/compendium-tdh",
   "manifest": "https://raw.githubusercontent.com/GregreHit/compendium-tdh/master/module.json",
   "download": "https://github.com/GregreHit/compendium-tdh/archive/refs/tags/compendium-tdh-09.zip"
