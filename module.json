@@ -12,38 +12,39 @@
       "label": "Character Features",
       "path": "packs/character-features",
       "type": "Item",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e"
+      }
     },
     {
       "name": "spells",
       "label": "Spells",
       "path": "packs/spells",
       "type": "Item",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e"
+      }
     },
     {
       "name": "monsters-and-creatures",
       "label": "Monsters and creatures",
       "path": "packs/monsters-and-creatures",
       "type": "Actor",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e"
+      }
     }
   ],
   "authors": [
     {
       "name": "Laurent"
     }
-  ]
+  ],
+  "url": "https://github.com/GregreHit/compendium-tdh"
 }
