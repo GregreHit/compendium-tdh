@@ -46,5 +46,8 @@
       "name": "Laurent"
     }
   ],
-  "url": "https://github.com/GregreHit/compendium-tdh"
+
+  "url": "https://github.com/GregreHit/compendium-tdh",
+  "manifest": "https://raw.githubusercontent.com/GregreHit/compendium-tdh/master/module.json",
+  "download": ""
 }
